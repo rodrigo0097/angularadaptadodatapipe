@@ -3,7 +3,7 @@ import { CommonModule } from '@angular/common';
 import {RouterModule, Routes} from '@angular/router'
 import {ListarIteracionComponent} from '../iteracion/listar-iteracion/listar-iteracion.component';
 import {IteracionDetailComponent}  from '../iteracion/iteracion-detail/iteracion-detail.component';
-import {IteracionCreateComponentt}  from '../iteracion/iteracion-create/iteracion-create.component';
+import {IteracionCreateComponent}  from '../iteracion/iteracion-create/iteracion-create.component';
 const routes: Routes = [
 
   
